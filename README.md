@@ -1,2 +1,2 @@
 # llabaABCLizaChechiotkina-i-2-25
-репозиторий для курса "Архитектура вычислительных систем"
+Repository
